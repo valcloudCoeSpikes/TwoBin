@@ -1,0 +1,12 @@
+.table-printlabel {
+    width: 40%;
+}
+
+.input {
+    margin-right: 2%;
+}
+
+.table-printlabel td {
+    text-align: left;
+    padding-top: 2%;
+}

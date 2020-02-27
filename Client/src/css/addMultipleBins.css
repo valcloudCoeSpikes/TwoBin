@@ -1,0 +1,20 @@
+.span {
+    font-family: Helvetica;
+    color: red;
+    font-size: 12pt;
+    margin-top:1%;
+}
+
+hr{
+    width:80%;
+}
+.included-bin-id{
+    font-size: 12pt;
+    padding-right: 1%;
+}
+.addbin:hover{
+   background-color: rgb(135, 33, 46);
+}
+textarea.form-control {
+    width: 50%;
+}

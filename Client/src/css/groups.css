@@ -1,0 +1,53 @@
+table th {
+    font-size: 16pt;
+    font-family: Helvetica;
+    background-color: rgb(135, 33, 46);
+    color:white
+}
+
+table td {
+    font-size: 8pt;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.table {
+    width: 0%;
+    box-shadow: 0 2px 6px 7px #802020;
+}
+
+span {
+    padding: 3%;
+}
+.group {
+    font-size:12pt;
+    cursor: pointer;
+    
+}
+.group:hover{
+    color: rgb(135, 33, 46);
+}
+.span-group {
+    font-size:12pt;
+   
+}
+.table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th {
+    background-color:rgb(231, 231, 231);
+ }
+ .table-striped > tbody > tr:nth-child(even) > td, .table-striped > tbody > tr:nth-child(even) > th {
+    background-color:white;
+ }
+
+.group-link:hover {
+    color: rgb(135, 33, 46) !important
+}
+
+.th-group {
+    font-weight: normal;
+    font-size:12pt;
+}
+
+.row{
+    background-color:white;
+}
+

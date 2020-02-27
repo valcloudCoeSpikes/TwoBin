@@ -1,0 +1,23 @@
+.sub-nav{
+    background-color: transparent;
+    color: black;
+}
+.sub-nav-a:hover{
+    color:rgb(135, 33, 46);
+    cursor:pointer;
+
+}
+.bg-secondary{
+    background-color: #a0515178 !important;
+    width: 80%;
+    align-self: center;
+    border-radius: 0.5rem;
+}
+
+.navbar{
+    padding: 0; 
+}
+
+.text-red{
+    color: rgb(135, 33, 46);
+}

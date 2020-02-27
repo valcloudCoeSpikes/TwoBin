@@ -1,0 +1,57 @@
+.table {
+  width: 50%;
+  margin: 0px auto;
+  float: none;
+  padding-top: 0px;
+  box-shadow: 0 2px 2px 2px #691212;
+  
+}
+.table td {
+  text-align: right;
+  padding-right: 0.75rem;
+  width: auto;
+  font-weight: bold;
+}
+.table tr {
+  border-color: transparent;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.table tbody{
+  float: left;
+  position: relative;
+  left: 30%;
+}
+
+h2.view-bin-title {
+  margin-top: 2%;
+text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+
+}
+
+
+
+.table span {
+  font-size: 16px;
+}
+td.td {
+  text-align: left;
+  font-weight: normal;
+}
+
+.table td,.table th {
+  vertical-align: unset;
+}
+
+.btn-back
+{
+  margin-left:45%;
+
+}
+.btn-back:hover
+{
+background: rgb(135, 33, 46);
+}

@@ -1,0 +1,22 @@
+.row{
+    background-color:transparent ;
+}
+
+.container{
+    border-bottom: 1px solid transparent;
+}
+.alert {
+    margin-left: 25rem;
+    margin-right: 25rem;
+}
+.btn-dark {
+    color: #fff;
+    background-color: rgb(135, 33, 46);
+    border-color: rgb(135, 33, 46);
+}
+
+.btn-dark:hover {
+    color: #fff;
+    background-color: rgb(135, 33, 46);
+    border-color: rgb(135, 33, 46);
+}
